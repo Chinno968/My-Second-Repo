@@ -1,0 +1,20 @@
+#Desh{
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    padding:10px;
+    text-align: justify;
+    border-bottom: 20px;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.Lif{
+    background-color: red;
+    font-style: oblique;
+    text-align: justify;
+    padding: 20px;
+}
